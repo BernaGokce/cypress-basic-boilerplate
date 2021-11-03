@@ -42,3 +42,4 @@ Integration > examples > login.spec.js
 
 ## To run single test file in headless mode
 ```npx cypress run --spec='cypress/integration/examples/login.spec.js'```
+# cypress-basic-boilerplate
