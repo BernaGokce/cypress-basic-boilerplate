@@ -1,0 +1,22 @@
+{
+  "name": "cypress-berlin",
+  "version": "1.0.0",
+  "description": "automated testing with cypress",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "keywords": [
+    "testing",
+    "cypress",
+    "automation"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^8.7.0",
+    "cypress-xpath": "^1.6.2",
+    "prettier": "^2.4.1"
+  }
+}
